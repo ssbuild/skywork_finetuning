@@ -1,10 +1,9 @@
-## update information
-   - [deep_training](https://github.com/ssbuild/deep_training)
-
 ```text
     11-01 initial skywork
 ```
    
+## update information
+   - [deep_training](https://github.com/ssbuild/deep_training)
 
 ## install
   - pip install -U -r requirements.txt
@@ -14,7 +13,7 @@
 
 ## weigtht select one is suitable for you
 支持且不限于以下权重    
-- [bloom预训练模型](https://huggingface.co/bigscience)
+- [Skywork-13B-base](https://huggingface.co/Skywork/Skywork-13B-base)
 
 
 ## data sample
@@ -117,6 +116,8 @@ a answer   must
 - [tf-task-example](https://github.com/ssbuild/tf-task-example)
 - [chatmoss_finetuning](https://github.com/ssbuild/chatmoss_finetuning)
 - [chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning)
+- [chatglm2_finetuning](https://github.com/ssbuild/chatglm2_finetuning)
+- [chatglm3_finetuning](https://github.com/ssbuild/chatglm3_finetuning)
 - [t5_finetuning](https://github.com/ssbuild/t5_finetuning)
 - [llm_finetuning](https://github.com/ssbuild/llm_finetuning)
 - [llm_rlhf](https://github.com/ssbuild/llm_rlhf)
@@ -130,4 +131,4 @@ a answer   must
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ssbuild/llm_finetuning&type=Date)](https://star-history.com/#ssbuild/llm_finetuning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ssbuild/sky_finetuning&type=Date)](https://star-history.com/#ssbuild/sky_finetuning&Date)
